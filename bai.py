@@ -1,0 +1,1 @@
+x = input("Nhap vao ten")
